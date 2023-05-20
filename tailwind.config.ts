@@ -30,6 +30,11 @@ export default {
       center: true,
     },
     extend: {
+      colors: {
+        timer: "#E37A69",
+        secundary: "#FFFFFF",
+        buttonColor: "#273746",
+      },
       animation: {
         "slide-left": "slide-left-frame 0.4s ease normal",
         "slide-right": "slide-right-frame 0.4s ease normal",
